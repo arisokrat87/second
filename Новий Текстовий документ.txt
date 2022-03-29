@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1 style="background-color:DodgerBlue;">Слава Україні</h1>
+
+<p style="background-color:Orange;">
+В своїй хаті своя й правда,
+І сила, і воля.
+Нема на світі України,
+Немає другого Дніпра
+
+</p>
+
+</body>
+</html>
